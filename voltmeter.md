@@ -1,4 +1,4 @@
-# to install voltmeter
+# to install voltmeter with R bridge calculated for 20v
 
 activate I2C with 
 ```
